@@ -14,7 +14,8 @@ This project was developed with the following technologies:
 
 # Gallery
 
-<img src="img/Print completo.png">
+<img src="img/print 1.png">
+<img src="img/print 2.png">
 
 ##
 
@@ -34,4 +35,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 # Galeria
 
-<img src="img/Print completo.png">
+<img src="img/print 1.png">
+<img src="img/print 2.png">
